@@ -106,18 +106,18 @@
         </menu>
 
         <!--  Tools -->
-        <menu>
-            <id>my_pep_menu</id>
-            <i18n-key>xacml</i18n-key>
-            <i18n-bundle>org.wso2.carbon.identity.entitlement.ui.i18n.Resources</i18n-bundle>
-	    <parent-menu>tools_menu</parent-menu>
-            <link>#</link>
-            <region>region5</region>
-            <order>4</order>
-            <style-class>tools</style-class>
-            <icon>../entitlement/images/policy.gif</icon>
-            <require-permission>/permission/admin/manage/identity/entitlement/pep</require-permission>
-        </menu>
+<!--        <menu>-->
+<!--            <id>my_pep_menu</id>-->
+<!--            <i18n-key>xacml</i18n-key>-->
+<!--            <i18n-bundle>org.wso2.carbon.identity.entitlement.ui.i18n.Resources</i18n-bundle>-->
+<!--	    <parent-menu>tools_menu</parent-menu>-->
+<!--            <link>#</link>-->
+<!--            <region>region5</region>-->
+<!--            <order>4</order>-->
+<!--            <style-class>tools</style-class>-->
+<!--            <icon>../entitlement/images/policy.gif</icon>-->
+<!--            <require-permission>/permission/admin/manage/identity/entitlement/pep</require-permission>-->
+<!--        </menu>-->
         <menu>         
             <id>policy_tryit_menu</id>
             <i18n-key>identity.policy.tryit</i18n-key>

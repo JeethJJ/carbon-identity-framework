@@ -1518,7 +1518,7 @@
                                 autofocus required/>
                             </td>
                         </tr>
-                        <tr>
+                        <tr style="display: none;">
                             <td class="leftCol-med">
                                 <label for="isSaasApp"><fmt:message key="config.application.isSaasApp"/></label>
                             </td>
